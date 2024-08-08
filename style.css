@@ -7,3 +7,10 @@
  body{
     background-color: var(--cor-de-fundo);
  }
+
+:root
+{
+    --cor-de-fundo:#ebecee;
+    --branco:#ffffff;
+    --laranja:#FECD2F;
+   }
